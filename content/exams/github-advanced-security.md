@@ -4,13 +4,13 @@
 
 ## Skills measured
 
-- [Describe the GitHub Advanced Security features and functionality](#describe-github-advanced-security-best-practices-results-and-how-to-take-corrective-measures)
-- [Configure and use secret scanning](#configure-and-use-code-scanning)
-- [Configure and use dependency management](#configure-and-use-dependency-management)
-- [Configure and use code scanning](#configure-and-use-code-scanning)
-- [Use code scanning with CodeQL](#use-code-scanning-with-codeql)
-- [Describe GitHub Advanced Security best practices, results, and how to take corrective measures](#describe-github-advanced-security-best-practices-results-and-how-to-take-corrective-measures)
-- [Configure GitHub Advanced Security tools in GitHub Enterprise](#configure-github-advanced-security-tools-in-github-enterprise)
+- [Describe the GitHub Advanced Security features and functionality](#describe-github-advanced-security-best-practices-results-and-how-to-take-corrective-measures)  (10% of the exam)
+- [Configure and use secret scanning](#configure-and-use-code-scanning) (10% of the exam)
+- [Configure and use dependency management](#configure-and-use-dependency-management) (15% of the exam)
+- [Configure and use code scanning](#configure-and-use-code-scanning) (15% of the exam)
+- [Use code scanning with CodeQL](#use-code-scanning-with-codeql) (20% of the exam)
+- [Describe GitHub Advanced Security best practices, results, and how to take corrective measures](#describe-github-advanced-security-best-practices-results-and-how-to-take-corrective-measures) (18% of the exam)
+- [Configure GitHub Advanced Security tools in GitHub Enterprise](#configure-github-advanced-security-tools-in-github-enterprise) (12% of the exam)
 
 ## Describe the GitHub Advanced Security features and functionality
 

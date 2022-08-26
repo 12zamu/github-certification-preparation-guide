@@ -16,6 +16,10 @@ I don't know. Ask GitHub. All Microsoft employees can get it for free if they sc
 
 No but be prepared, they are not that easy.
 
+## What is the format of the exam ?
+
+A MSQ (Multi Choice Question) test. Sometimes there is only one answer and whenever they are several choices, they say how many choices you need to check.
+
 ## When do I get the results ?
 
 Just at the end of the exam. You will see a detailled score and you'll receive a confirmation by email few hours later.
@@ -34,4 +38,4 @@ When you are ready to retake the exam, schedule an appointment as you normally w
 
 ## What is the passing score ?
 
-I'm not sure as is may change depending on the certification. In my case, I got 73 questions for GitHub Actions, but the final score said: "Passing score 35, you have 55/60". For administration, I got 66 questions and the passing score was 36/60.
+I'm not sure as is may change depending on the certification. In my case, I got 73 questions for GitHub Actions, but the final score said: "Passing score 35, you have 55/60". For administration, I got 66 questions and the passing score was 36/60 and for security, I got 73 questions and the passing score was 40/60.
