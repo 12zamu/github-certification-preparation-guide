@@ -1,8 +1,4 @@
-# GitHub Enterprise Revision guide
-
-This revision guide is based off the content from the MS [Learn path:](https://docs.microsoft.com/en-us/learn/paths/github-administration-products/) and content from the learning paths at the following [site:](https://docs.microsoft.com/en-us/users/githubtraining/collections/mom7u1gzjdxw03)
-
-## GitHub Administration
+# GitHub Administration
 
 ### Administration levels
 
@@ -129,8 +125,6 @@ This section will run throught the different products that GitHub offers and the
   - GH Enterprise Cloud includes 50,000 GitHub Actions minutes
   - GH Enterprise Cloud includes 50GB limit for GitHub Packages storage
   - GH Enterpise Cloud also has a 99.9% SLA, centralize billing options and access control for GitHub Pages. 
-
-![Pricing Comparison](https://user-images.githubusercontent.com/73177811/167446586-cb001853-b4c5-42e3-9d92-bc87433e35db.png)
 
 There are 3 different kinds of accounts for the GitHub products listed:
 - Personal User Accounts
