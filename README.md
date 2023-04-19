@@ -10,7 +10,7 @@ This guide covers three certifications:
 - GitHub Advanced Security
 - GitHub Administration
 
-You will find **[guides and test exams here](content/readme.md).**
+You will find **[guides, test exams and revision cards here](content/readme.md).**
 
 <img src="./content/media/force.jpg"  width="1173"/>
 
