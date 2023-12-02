@@ -54,7 +54,7 @@ Yes and it is a general pratice [to use them to reflect](https://docs.github.com
 </p>
 </details>
 
-### On GitHub Enterprise Server, which command lines allows to generate a logs package to communicate to the support ?
+### On GitHub Enterprise Server, what command line allows you to generate a logs package to communicate to support ?
 
 <details><summary>show</summary>
 <p>
@@ -68,12 +68,12 @@ ssh -p 122 admin@hostname -- 'ghe-support-bundle -o' > support-bundle.tgz
 
 ## Manage user identities and GitHub authentication
 
-### Can be GitHub synchronized with an identity provider ?
+### Can GitHub be synchronized with an identity provider ?
 
 <details><summary>show</summary>
 <p>
 
-Yes, for instance, Azure Active Directory but other like ADFS, Okta, OneLogin, etc
+Yes, for instance, Microsoft Entra ID (formerly Azure Active Directory) and others like ADFS, Okta, OneLogin, etc
 
 </p>
 </details>
@@ -91,7 +91,7 @@ Yes, for instance, Azure Active Directory but other like ADFS, Okta, OneLogin, e
 </p>
 </details>
 
-### Which authentication mechanism allow user to connect using their company's credentials ?
+### Which authentication mechanism allows a user to connect to GitHub using their company's credentials ?
 
 <details><summary>show</summary>
 <p>
@@ -113,7 +113,7 @@ Yes, for instance, Azure Active Directory but other like ADFS, Okta, OneLogin, e
 </p>
 </details>
 
-### Which feature allow to synchronize exchange of user identity data between your Idp and GitHub ?
+### Which feature allows you to synchronize user identity data between your Idp and GitHub ?
 
 <details><summary>show</summary>
 <p>
@@ -123,7 +123,7 @@ Yes, for instance, Azure Active Directory but other like ADFS, Okta, OneLogin, e
 </p>
 </details>
 
-### What is the limit number of user in one GitHub organization ?
+### What is the maximum number of members allowed in one GitHub organization ?
 
 <details><summary>show</summary>
 <p>
@@ -139,7 +139,7 @@ Yes, for instance, Azure Active Directory but other like ADFS, Okta, OneLogin, e
 
 ## Describe how GitHub is deployed, distributed, and licensed
 
-### Can an enterprise contain several organizations  ?
+### Can an enterprise contain several organizations ?
 
 <details><summary>show</summary>
 <p>
@@ -169,7 +169,7 @@ macOS. It cost 10 times (in terms of minute of compute) the price of a linux min
 </p>
 </details>
 
-### What are the different types of support of Enterprise Support ?
+### What are the different types of Enterprise Support ?
 
 <details><summary>show</summary>
 <p>
@@ -181,7 +181,7 @@ macOS. It cost 10 times (in terms of minute of compute) the price of a linux min
 </p>
 </details>
 
-### What kind of info can you find using Audit Log API ?
+### What kind of info can you find using the Audit Log API ?
 
 <details><summary>show</summary>
 <p>
@@ -195,7 +195,7 @@ macOS. It cost 10 times (in terms of minute of compute) the price of a linux min
 </p>
 </details>
 
-### Does the support covers account, server, and security issues ?
+### Does support cover account, server, and security issues ?
 
 <details><summary>show</summary>
 <p>
@@ -205,17 +205,17 @@ No, it covers Account, Security, and Abuse issues
 </p>
 </details>
 
-### Does GitHub Enterprise Server contains GitHub Actions feature ?
+### Does GitHub Enterprise Server contain the GitHub Actions feature ?
 
 <details><summary>show</summary>
 <p>
 
-Yes. It is disabled by default but it's here and it contains already some built-in actions created by GitHub. It does NOT require acces to Internet to work because you can sync/download the Actions locally.
+Yes. It is disabled by default but it's here and it contains already some built-in actions created by GitHub. It does NOT require acces to the Internet to work because you can sync/download the Actions locally.
 
 </p>
 </details>
 
-### Does GitHub Enterprise Server contains GitHub Packages feature?
+### Does GitHub Enterprise Server contain the GitHub Packages feature?
 
 <details><summary>show</summary>
 <p>
@@ -227,7 +227,7 @@ yes
 
 ## Manage access and permissions based on membership
 
-### What are the two roles available at team level  ?
+### What are the two roles available at the team level ?
 
 <details><summary>show</summary>
 <p>
@@ -238,7 +238,7 @@ yes
 </p>
 </details>
 
-### What are the three roles available at organization level  ?
+### What are the three roles available at organization level ?
 
 <details><summary>show</summary>
 <p>
@@ -251,7 +251,7 @@ yes
 </details>
 
 
-### Which role access should you give to a contributor with full control on the repo except access to sensitive or destructive actions  ?
+### What role access should you give to a contributor with full control on the repo without access to sensitive or destructive actions ?
 
 <details><summary>show</summary>
 <p>
@@ -333,7 +333,7 @@ You should use [branch protection rules](https://docs.github.com/en/repositories
 </p>
 </details>
 
-### How can you automatically assign specific persons as reviewers when a part of the code is modified ?
+### How can you automatically assign specific people as reviewers when a part of the code is modified ?
 
 <details><summary>show</summary>
 <p>
@@ -343,7 +343,7 @@ You should use [CODEOWNERS](https://docs.github.com/en/repositories/managing-you
 </p>
 </details>
 
-### What is the simplest way to prevent the creation of public repository  ?
+### What is the simplest way to prevent the creation of public repository ?
 
 <details><summary>show</summary>
 <p>
@@ -394,7 +394,7 @@ In the **Insights** tab and then **Dependency graph**.
 </details>
 
 
-### Which feature of GitHub scan your repo and alerts you in case of detected vulnerabilities and automatically create a pull request to fix it ?
+### Which feature of GitHub scans your repo and alerts you in case of detected vulnerabilities and automatically creates a pull request to fix it ?
 
 <details><summary>show</summary>
 <p>
@@ -403,7 +403,7 @@ In the **Insights** tab and then **Dependency graph**.
 </p>
 </details>
 
-### What is the feature which help to prevent to commit a secret ?
+### What is the feature which helps to prevent to commit a secret ?
 
 <details><summary>show</summary>
 <p>
@@ -433,7 +433,7 @@ If you want to act **before** a commit, you must use pre-commit hook which allow
 </p>
 </details>
 
-### You have a workflow secret named MY_SECRET. What if the format to call it from the workflow ?
+### You have a workflow secret named MY_SECRET. What is the format to call it from the workflow ?
 
 <details><summary>show</summary>
 <p>
@@ -450,7 +450,7 @@ steps:
 
 ## Manage GitHub Actions
 
-### Which two files are mandatory when create a workflow template ?
+### Which two files are mandatory when creating a workflow template ?
 
 <details><summary>show</summary>
 <p>
@@ -463,7 +463,7 @@ Both files must have the same name.
 </p>
 </details>
 
-### Which placeholder keyword allow to inject the current default branch in a workflow template ?
+### Which placeholder keyword allows you to inject the current default branch in a workflow template ?
 
 <details><summary>show</summary>
 <p>
@@ -479,7 +479,7 @@ on:
 </p>
 </details>
 
-### Can you prevent users to use Actions from the marketplace ?
+### Can you prevent members using Actions from the marketplace ?
 
 <details><summary>show</summary>
 <p>
@@ -509,7 +509,7 @@ Yes, but they may not be the last version of them.
 </p>
 </details>
 
-### Which feature allow to provide already premade templaces to users when they want to create a workflow ?
+### Which feature allow to provide premade templates to users when they want to create a workflow ?
 
 <details><summary>show</summary>
 <p>
@@ -531,7 +531,7 @@ It's called a **workflow template**
 </p>
 </details>
 
-### How do you enforce your workflow running on a specific self-hosted agent running on Linux with ARM ?
+### How do you enforce your workflow running a specific self-hosted agent, running on Linux, with ARM ?
 
 <details><summary>show</summary>
 <p>
@@ -565,7 +565,7 @@ Yes.
 </p>
 </details>
 
-### What is the docker command to publish a container image on GitHub Packages ?
+### What is the docker command to publish a container image into GitHub Packages ?
 
 <details><summary>show</summary>
 <p>
@@ -577,7 +577,7 @@ docker push ghcr.io/OWNER/IMAGE_NAME:latest
 </p>
 </details>
 
-### What are the (programming) package managers supported by GitHub Packages  ?
+### What are the programming package managers supported by GitHub Packages ?
 
 <details><summary>show</summary>
 <p>
