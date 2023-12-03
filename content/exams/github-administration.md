@@ -29,7 +29,7 @@
 <details><summary>show</summary>
 <p>
 
-Yes and it is a general pratice [to use them to reflect](https://docs.github.com/en/organizations/organizing-members-into-teams/about-teams#nested-teams) the current enterprise internal's organization.
+Yes and it is a general practice [to use them to reflect](https://docs.github.com/en/organizations/organizing-members-into-teams/about-teams#nested-teams) the current enterprise internal's organization.
 
 </p>
 </details>
@@ -164,7 +164,7 @@ Yes for public repositories. For private repositories, you have free minutes of 
 <details><summary>show</summary>
 <p>
 
-macOS. It cost 10 times (in terms of minute of compute) the price of a linux minute
+macOS. It cost 10 times (in terms of minute of compute) the price of a Linux minute
 
 </p>
 </details>
@@ -210,7 +210,7 @@ No, it covers Account, Security, and Abuse issues
 <details><summary>show</summary>
 <p>
 
-Yes. It is disabled by default but it's here and it contains already some built-in actions created by GitHub. It does NOT require acces to the Internet to work because you can sync/download the Actions locally.
+Yes. It is disabled by default but it's here and it contains already some built-in actions created by GitHub. It does NOT require access to the Internet to work because you can sync/download the Actions locally.
 
 </p>
 </details>
@@ -313,12 +313,12 @@ One technique to help avoid the majority of this risk is to build and maintain *
 </p>
 </details>
 
-### Once a sensitive data has been commited, can you erase the history to keep the data secret again ?
+### Once a sensitive data has been committed, can you erase the history to keep the data secret again ?
 
 <details><summary>show</summary>
 <p>
 
-**No**. You can overwrite a commit but you must consider the data unsecure once it has been commited. If it's a secret/password, then you must renew it.
+**No**. You can overwrite a commit but you must consider the data unsecure once it has been committed. If it's a secret/password, then you must renew it.
 
 </p>
 </details>
@@ -456,7 +456,7 @@ steps:
 <p>
 
 - a workflow file with a yml extension (**my-workflow**.yml)
-- a propertires files with ".properties.json" extention (**my-workflow**.properties.json)
+- a properties files with ".properties.json" extension (**my-workflow**.properties.json)
 
 Both files must have the same name.
 
@@ -543,7 +543,7 @@ runs-on: [self-hosted, linux, ARM64]
 </p>
 </details>
 
-### In which folder of a self-hosted agent can you find logs to debug the behavior of the runner ?
+### In which folder of a self-hosted agent can you find logs to debug the behaviour of the runner ?
 
 <details><summary>show</summary>
 <p>
