@@ -450,7 +450,7 @@ steps:
 
 ## Manage GitHub Actions
 
-### Which two files are mandatory when create a workflow template ?
+### Which two files are mandatory when creating a workflow template ?
 
 <details><summary>show</summary>
 <p>
