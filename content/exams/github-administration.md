@@ -526,7 +526,7 @@ It's called a **workflow template**
 
 - *self-hosted*
 - the os: *linux*, *windows*, or *macOS*
-- the CPU architecture: *x64* , *ARM*, or *ARM64*
+- the CPU architecture: *x64* , *ARM32*, or *ARM64*
 
 </p>
 </details>
