@@ -403,12 +403,12 @@ In the **Insights** tab and then **Dependency graph**.
 </p>
 </details>
 
-### What is the feature which help to prevent to commit a secret ?
+### Which feature can prevent an user from committing secrets to any repository ?
 
 <details><summary>show</summary>
 <p>
 
-If you want to act **before** a commit, you must use pre-commit hook which allow to scan the code before the commit.
+**Push protection for yourself**.
 
 </p>
 </details>
