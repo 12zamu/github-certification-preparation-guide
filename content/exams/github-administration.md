@@ -433,7 +433,7 @@ In the **Insights** tab and then **Dependency graph**.
 </p>
 </details>
 
-### You have a workflow secret named MY_SECRET. What if the format to call it from the workflow ?
+### You have a workflow secret named MY_SECRET. What is the format to call it from the workflow ?
 
 <details><summary>show</summary>
 <p>
