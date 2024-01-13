@@ -399,7 +399,7 @@ In the **Insights** tab and then **Dependency graph**.
 <details><summary>show</summary>
 <p>
 
-**Dependabot**.
+**Dependabot security updates**.
 </p>
 </details>
 
