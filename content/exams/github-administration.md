@@ -389,7 +389,7 @@ In the **Insights** tab and then **Dependency graph**.
 <details><summary>show</summary>
 <p>
 
-**GitHub Security Advisories**.
+**Depandabot alerts**.
 </p>
 </details>
 
@@ -399,16 +399,16 @@ In the **Insights** tab and then **Dependency graph**.
 <details><summary>show</summary>
 <p>
 
-**Dependabot**.
+**Dependabot security updates**.
 </p>
 </details>
 
-### What is the feature which help to prevent to commit a secret ?
+### Which feature can prevent an user from committing secrets to any repository ?
 
 <details><summary>show</summary>
 <p>
 
-If you want to act **before** a commit, you must use pre-commit hook which allow to scan the code before the commit.
+**Push protection for yourself**.
 
 </p>
 </details>
@@ -433,7 +433,7 @@ If you want to act **before** a commit, you must use pre-commit hook which allow
 </p>
 </details>
 
-### You have a workflow secret named MY_SECRET. What if the format to call it from the workflow ?
+### You have a workflow secret named MY_SECRET. What is the format to call it from the workflow ?
 
 <details><summary>show</summary>
 <p>
@@ -450,7 +450,7 @@ steps:
 
 ## Manage GitHub Actions
 
-### Which two files are mandatory when create a workflow template ?
+### Which two files are mandatory when creating a workflow template ?
 
 <details><summary>show</summary>
 <p>
@@ -526,7 +526,7 @@ It's called a **workflow template**
 
 - *self-hosted*
 - the os: *linux*, *windows*, or *macOS*
-- the CPU architecture: *x64* , *ARM*, or *ARM64*
+- the CPU architecture: *x64* , *ARM32*, or *ARM64*
 
 </p>
 </details>
