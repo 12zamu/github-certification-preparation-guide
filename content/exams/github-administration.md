@@ -389,7 +389,7 @@ In the **Insights** tab and then **Dependency graph**.
 <details><summary>show</summary>
 <p>
 
-**GitHub Security Advisories**.
+**Dependabot alerts**.
 </p>
 </details>
 
