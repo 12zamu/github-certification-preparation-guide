@@ -416,7 +416,7 @@ Yes, using Policies and restricting to specific actions (menu "Allow select acti
 <details><summary>show</summary>
 <p>
 
-Yes, but they may not be the last version of them.
+No, the Actions created by GitHub are not automatically present in GitHub Enterprise Server. Enterprise administrators need to enable and configure GitHub Actions on GitHub Enterprise Server for the first time.
 
 </p>
 </details>
